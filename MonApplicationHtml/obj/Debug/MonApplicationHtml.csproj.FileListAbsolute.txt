@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\MonApplicationHtml\MonApplicationHtml\bin\Debug\MonApplicationHtml.exe.config
+C:\Users\Administrateur\source\repos\MonApplicationHtml\MonApplicationHtml\bin\Debug\MonApplicationHtml.exe
+C:\Users\Administrateur\source\repos\MonApplicationHtml\MonApplicationHtml\bin\Debug\MonApplicationHtml.pdb
+C:\Users\Administrateur\source\repos\MonApplicationHtml\MonApplicationHtml\obj\Debug\MonApplicationHtml.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\MonApplicationHtml\MonApplicationHtml\obj\Debug\MonApplicationHtml.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\MonApplicationHtml\MonApplicationHtml\obj\Debug\MonApplicationHtml.exe
+C:\Users\Administrateur\source\repos\MonApplicationHtml\MonApplicationHtml\obj\Debug\MonApplicationHtml.pdb

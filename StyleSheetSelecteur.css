@@ -1,0 +1,27 @@
+﻿/*.info {
+    color: red;
+}
+
+.premier {
+    background: green;
+}*/
+/*div[class*="t"] {
+    color: red;
+}*/
+div:nth-child(1){color:red;}
+div:nth-child(2) { color: red;}
+div:nth-child(3) {
+    color: darkgreen;
+}
+ol li:nth-child(3){color:blue;}
+input[type=checkbox]:checked+label {
+    color: red;
+}
+input[type=checkbox]:focus {
+    background-color:blueviolet;
+}  
+    
+
+
+
+

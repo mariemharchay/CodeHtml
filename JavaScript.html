@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>mon fichier JavaScript</title>
+    <script>
+        //alert("attention mariem")
+        //function carre(a) {
+        //    alert("voici mon carré " + a * a)
+        //};
+        function majuscule() {
+            var c = document.mariem.nom.value.toUpperCase();
+            document.mariem.nom.value = c;
+            
+           
+        };
+        
+        
+    </script>
+</head>
+<body>
+    <form name="mariem">
+        <p>entrer votre nom <input type="text" name="nom" /></p>
+        <p>entrer votre adresse mail <input type="email" name="mon e mail" /></p>
+        <p>
+            Connaissez vous MediaForms?
+            oui <input type="radio" value="oui" />
+            non<input type="radio" value="non" />
+        </p>
+        <input type="button" value="Envoyer" >
+        <input type="reset" value="Annuler" style="align-content:center" >
+        <input type="button" value="Majuscule" onclick="majuscule()">
+        <!--<input type="button"
+               value="resultat"
+               onclick="carre(5);" />-->
+    </form>
+</body>
+</html>

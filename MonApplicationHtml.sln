@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA28BAC5-EED0-4F3E-A0E9-3F880022BEF8}"
+	ProjectSection(SolutionItems) = preProject
+		ExerciceSelecteur.html = ExerciceSelecteur.html
+		HTMLConteneur.html = HTMLConteneur.html
+		HTMLConteneurcolonne.html = HTMLConteneurcolonne.html
+		HTMLCVEssai2.html = HTMLCVEssai2.html
+		HTMLExercice.html = HTMLExercice.html
+		HTMLPage2.html = HTMLPage2.html
+		HTMLPageCv.html = HTMLPageCv.html
+		HTMLPageHeader.html = HTMLPageHeader.html
+		JavaScript.html = JavaScript.html
+		Meslistes.html = Meslistes.html
+		MonTableauHtml.html = MonTableauHtml.html
+		PageHtmlTableau.html = PageHtmlTableau.html
+		ParagrapheHtml.html = ParagrapheHtml.html
+		StyleSheet1.css = StyleSheet1.css
+		StyleSheetColonne.css = StyleSheetColonne.css
+		StyleSheetConteneur.css = StyleSheetConteneur.css
+		StyleSheetCV.css = StyleSheetCV.css
+		StyleSheetCvConreneur.css = StyleSheetCvConreneur.css
+		StyleSheetExercice.css = StyleSheetExercice.css
+		StyleSheetHeader.css = StyleSheetHeader.css
+		StyleSheetSelecteur.css = StyleSheetSelecteur.css
+		StyleTp.css = StyleTp.css
+		TP.html = TP.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07CECDBD-BB3D-4F51-8014-4D725234371F}
+	EndGlobalSection
+EndGlobal

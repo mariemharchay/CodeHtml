@@ -1,0 +1,28 @@
+﻿
+
+
+.classStyle{
+    background-color:darkgrey;
+    text-align:center;
+    
+    width: 100%;
+}
+aside{float:right;}
+
+part {
+    text-align:center;
+    color:black;
+     
+
+}
+article p:nth-child(1) {
+    color: green;
+    float:right;
+    
+}
+
+
+
+
+
+

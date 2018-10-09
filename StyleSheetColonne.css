@@ -1,0 +1,23 @@
+﻿.conteneur {
+    display: flex;
+    flex-flow: column;
+    
+    background-color:red;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    align-items:center;
+    justify-content:space-around;
+}
+
+p {
+    /*margin: 2px 5px 2em 10px;
+    padding: 4px 4px 4px 20px;*/
+    background-color: yellow;
+      
+    height:130px;
+    width:300px;
+    overflow:hidden;
+    
+    
+}
